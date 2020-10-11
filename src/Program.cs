@@ -8,6 +8,9 @@ namespace src
         {
             Console.WriteLine("text"); 
             Console.WriteLine("Hello World!");
+            Console.WriteLine("kapec");
+            int a = 123;
+            Console.WriteLine(a);
         }
     }
 }
